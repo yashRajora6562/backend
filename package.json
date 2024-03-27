@@ -10,11 +10,16 @@
   "author": "Yash Rajora",
   "license": "ISC",
   "devDependencies": {
+<<<<<<< HEAD
     "nodemon": "^3.1.0"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.1",
     "mongoose": "^8.2.2"
+=======
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
+>>>>>>> 46546b7253995b7367563ffff726f7d92d97df03
   }
 }
